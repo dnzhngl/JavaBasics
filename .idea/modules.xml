@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCourse.iml" filepath="$PROJECT_DIR$/.idea/JavaCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractClasses/abstractClasses.iml" filepath="$PROJECT_DIR$/abstractClasses/abstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayList/arrayList.iml" filepath="$PROJECT_DIR$/arrayList/arrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListTyped/arrayListTyped.iml" filepath="$PROJECT_DIR$/arrayListTyped/arrayListTyped.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrayListsWithClass/arrayListsWithClass.iml" filepath="$PROJECT_DIR$/arrayListsWithClass/arrayListsWithClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataTypes/dataTypes.iml" filepath="$PROJECT_DIR$/dataTypes/dataTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionHandling/exceptionHandling.iml" filepath="$PROJECT_DIR$/exceptionHandling/exceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionHandling_ReadingFile/exceptionHandling_ReadingFile.iml" filepath="$PROJECT_DIR$/exceptionHandling_ReadingFile/exceptionHandling_ReadingFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionHandling_Throw/exceptionHandling_Throw.iml" filepath="$PROJECT_DIR$/exceptionHandling_Throw/exceptionHandling_Throw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstSwingDemo/firstSwingDemo.iml" filepath="$PROJECT_DIR$/firstSwingDemo/firstSwingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics_RepositoryDemo/generics_RepositoryDemo.iml" filepath="$PROJECT_DIR$/generics_RepositoryDemo/generics_RepositoryDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" filepath="$PROJECT_DIR$/inheritanceDemo/inheritanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/interfaceDemo/interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaHelloWorld/javaHelloWorld.iml" filepath="$PROJECT_DIR$/javaHelloWorld/javaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_Intro/jdbc_Intro.iml" filepath="$PROJECT_DIR$/jdbc_Intro/jdbc_Intro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loops/loops.iml" filepath="$PROJECT_DIR$/loops/loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodOverloading/methodOverloading.iml" filepath="$PROJECT_DIR$/methodOverloading/methodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methods2/methods2.iml" filepath="$PROJECT_DIR$/methods2/methods2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProje_ArkadasSayilar/miniProje_ArkadasSayilar.iml" filepath="$PROJECT_DIR$/miniProje_ArkadasSayilar/miniProje_ArkadasSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProje_AsalSayi/miniProje_AsalSayi.iml" filepath="$PROJECT_DIR$/miniProje_AsalSayi/miniProje_AsalSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProje_MukemmelSayi/miniProje_MukemmelSayi.iml" filepath="$PROJECT_DIR$/miniProje_MukemmelSayi/miniProje_MukemmelSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProje_SayiBulma/miniProje_SayiBulma.iml" filepath="$PROJECT_DIR$/miniProje_SayiBulma/miniProje_SayiBulma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/miniProje_SesliHarfler/miniProje_SesliHarfler.iml" filepath="$PROJECT_DIR$/miniProje_SesliHarfler/miniProje_SesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiDimensionalArrays/multiDimensionalArrays.iml" filepath="$PROJECT_DIR$/multiDimensionalArrays/multiDimensionalArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/overriding/overriding.iml" filepath="$PROJECT_DIR$/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/packages.iml" filepath="$PROJECT_DIR$/packages/packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo1/recapDemo1.iml" filepath="$PROJECT_DIR$/recapDemo1/recapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo2/recapDemo2.iml" filepath="$PROJECT_DIR$/recapDemo2/recapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recapDemo_Classes/recapDemo_Classes.iml" filepath="$PROJECT_DIR$/recapDemo_Classes/recapDemo_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/static/static.iml" filepath="$PROJECT_DIR$/static/static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strings/strings.iml" filepath="$PROJECT_DIR$/strings/strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switchDemo/switchDemo.iml" filepath="$PROJECT_DIR$/switchDemo/switchDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threading/threading.iml" filepath="$PROJECT_DIR$/threading/threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/valueAndReferenceTypes/valueAndReferenceTypes.iml" filepath="$PROJECT_DIR$/valueAndReferenceTypes/valueAndReferenceTypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingWithFiles/workingWithFiles.iml" filepath="$PROJECT_DIR$/workingWithFiles/workingWithFiles.iml" />
+    </modules>
+  </component>
+</project>
